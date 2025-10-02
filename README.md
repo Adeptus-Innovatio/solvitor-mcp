@@ -1,5 +1,7 @@
 # 🦾💀 solvitor-mcp: A Solvitor API MCP Server in Rust
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/Adeptus-Innovatio/solvitor-mcp)](https://archestra.ai/mcp-catalog/Adeptus-Innovatio__solvitor-mcp)
+
 ## Overview
 
 A Model Context Protocol (MCP) server for interacting with the Solvitor API. This server provides tools to access the AI-powered platform that helps developers extract IDL files from closed-source Solana smart contracts and decompile them.
