@@ -6,6 +6,10 @@
 
 A Model Context Protocol (MCP) server for interacting with the Solvitor API. This server provides tools to access the AI-powered platform that helps developers extract IDL files from closed-source Solana smart contracts and decompile them.
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/adeptus-innovatio-solvitor-mcp).
+
 ## Features
 
 This MCP server exposes the following tools for interacting with the Solvitor API:
